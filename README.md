@@ -13,7 +13,7 @@ Example
 The verify image looks like :
 ![image](https://github.com/HGYD/Cralwer-Chinese-CAPTCHA-Crack/blob/master/image/verify.html.png)
 
-After cleaning and cutting it will show like these:
+After cleaning and cutting it will shows like these:
 ![image](https://github.com/HGYD/Cralwer-Chinese-CAPTCHA-Crack/blob/master/image/5_1.jpg)
 ![image](https://github.com/HGYD/Cralwer-Chinese-CAPTCHA-Crack/blob/master/image/%2B_6.jpg)
 ![image](https://github.com/HGYD/Cralwer-Chinese-CAPTCHA-Crack/blob/master/image/9-29.jpg)
